@@ -76,7 +76,8 @@ Each API endpoint follows a consistent structure, including:
 
 ---
 
-### System Overview Panel
+### System Overview Panel 
+@Díon, Litzy, Keren
 
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">
@@ -109,42 +110,8 @@ Each API endpoint follows a consistent structure, including:
 
 ---
 
-### Elevators Status
-
-
-<div style="display: flex; align-items: flex-start; gap: 24px;">
-
-<div>
-
-#### Prototype Image  
-<img src="images/ElevatorsList/Mockup.png" alt="Prototype for /api/elevators" width="220"/>
-
-</div>
-
-<div>
-
-#### Database Image  
-<img src="images/ElevatorsList/db.png" alt="Database for /api/elevators" width="220"/>
-
-</div>
-
-<div>
-
-#### Example JSON
-```json
-{
- 
-}
-```
-
-</div>
-</div>
-
----
-
-
 ### Recommendations
-
+@Bernardo, Vale, Josafat
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">
 
@@ -177,6 +144,7 @@ Each API endpoint follows a consistent structure, including:
 ---
 
 ### Alert Remainings
+@Bernardo, Vale, Josafat
 
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">
@@ -212,6 +180,7 @@ Each API endpoint follows a consistent structure, including:
 ## Módulo Lift Details
 
 ### RLU Components
+@Bernardo, Vale, Litzy
 
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">
@@ -236,39 +205,6 @@ Each API endpoint follows a consistent structure, including:
 ```json
 {
   
-}
-```
-
-</div>
-</div>
-
----
-
-### 3D Lift Visualization
-
-
-<div style="display: flex; align-items: flex-start; gap: 24px;">
-
-<div>
-
-#### Prototype Image  
-<img src="images/3DLift/Mockup.png" alt="Prototype for /api/lift/{id}/3d-model" width="220"/>
-
-</div>
-
-<div>
-
-#### Database Image  
-<img src="images/3DLift/db.png" alt="Database for /api/lift/{id}/3d-model" width="220"/>
-
-</div>
-
-<div>
-
-#### Example JSON
-```json
-{
-
 }
 ```
 
@@ -311,6 +247,7 @@ Each API endpoint follows a consistent structure, including:
 ---
 
 ### Elevator Report Log
+@Díon, Litzy, Vale
 
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">
@@ -344,7 +281,7 @@ Each API endpoint follows a consistent structure, including:
 ---
 
 ### Real-time Metrics
-
+@Díon, Litzy, Keren
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">
 
